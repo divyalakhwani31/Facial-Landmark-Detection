@@ -13,4 +13,6 @@ In this repo we will be performing two tasks
 2. Detect landmark points of faces.
    The facial landmark detector included in the dlib library is an implementation of the One Millisecond Face Alignment with an    Ensemble of Regression Trees paper by Kazemi and Sullivan (2014).
    
+   The 68 landmarks will be of jawline, eyebrows, nose, lips, eyes as shown.
+   
 # Results
