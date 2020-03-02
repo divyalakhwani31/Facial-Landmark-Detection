@@ -35,6 +35,7 @@ In this repo we will be performing two tasks
 6. Image with landmark points will be saved in the results folder.
    
 # Results
+<img name="co-ord" src="result.png"/>
 
 ### Sample Image
 <img name="before" src="2faces.png" width = "500" height = "300"/>
