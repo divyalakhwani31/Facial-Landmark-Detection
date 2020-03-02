@@ -37,7 +37,7 @@ In this repo we will be performing two tasks
 # Results
 
 ### Sample Image
-<img name="before" src="2faces.png"/>
+<img name="before" src="2faces.png" width = "500" height = "300"/>
 
 ### Detected results
 
