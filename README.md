@@ -14,7 +14,25 @@ In this repo we will be performing two tasks
    The facial landmark detector included in the dlib library is an implementation of the One Millisecond Face Alignment with an    Ensemble of Regression Trees paper by Kazemi and Sullivan (2014).
    
    The 68 landmarks will be of jawline, eyebrows, nose, lips, eyes as shown.
+   
+   
    <img name="landmark" src="landmarks.jpg" width = "300" height = "300"/>
+   
+   
+   
+# Steps to Set-Up
+1. Clone this repository.
+2. Enter into the directory
+
+   `cd feature_detection`
+3. Install requirements using the following command
+
+   `pip install -r requirements.txt`
+4. Run the image.py file for processing the image
+
+   `python image.py`
+5. Before running image.py update the name of your image file as face.jpeg which needs to be processed.
+6. Image with landmark points will be saved in the results folder.
    
 # Results
 
