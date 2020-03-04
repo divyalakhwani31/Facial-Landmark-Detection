@@ -28,7 +28,7 @@ In this repo we will be performing two tasks
 3. Install requirements using the following command
 
    `pip install -r requirements.txt`
-4. Run the Facial_Landmark_Detection(1).ipynb in google colab or in terminal like this facial_Landmark_Detection.py file for processing the image
+4. Run the file Facial_Landmark_Detection(1).ipynb in google colab or file facial_Landmark_Detection.py file in the terminal like this for processing the image
 
    `python facial_landmark_detection.py`
 5. Before running image.py update the name of your image file as 2faces.png which needs to be processed.
