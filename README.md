@@ -24,15 +24,15 @@ In this repo we will be performing two tasks
 1. Clone this repository.
 2. Enter into the directory
 
-   `cd feature_detection`
+   `cd Facial-Landmark-Detection
 3. Install requirements using the following command
 
    `pip install -r requirements.txt`
-4. Run the image.py file for processing the image
+4. Run the Facial_Landmark_Detection(1).ipynb in google colab or in terminal like this facial_Landmark_Detection.py file for processing the image
 
-   `python image.py`
-5. Before running image.py update the name of your image file as face.jpeg which needs to be processed.
-6. Image with landmark points will be saved in the results folder.
+   `python facial_landmark_detection.py`
+5. Before running image.py update the name of your image file as 2faces.png which needs to be processed.
+6. Image with landmark points will be downloaded/saved in the default folder.
    
 # Results
 <img name="co-ord" src="result.png"/>
